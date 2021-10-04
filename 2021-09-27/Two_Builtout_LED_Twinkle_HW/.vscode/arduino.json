@@ -1,0 +1,5 @@
+{
+    "sketch": "Two_Builtout_LED_Twinkle_HW.ino",
+    "board": "LinkIt:linkit_rtos:linkit_7697",
+    "port": "COM5"
+}
