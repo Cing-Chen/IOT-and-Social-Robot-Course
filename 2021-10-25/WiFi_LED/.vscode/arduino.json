@@ -1,0 +1,5 @@
+{
+    "sketch": "WiFi_LED.ino",
+    "board": "LinkIt:linkit_rtos:linkit_7697",
+    "port": "COM5"
+}
