@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03bc16b4-9842-4d64-a527-d1a5c157fcca": {
+      "ProjectGuid": "03bc16b4-9842-4d64-a527-d1a5c157fcca",
+      "DisplayName": "IOT-Bot-Service-1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

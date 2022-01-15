@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOT-Bot-Service-3", "IOT-Bot-Service-3\IOT-Bot-Service-3.csproj", "{ADCF11B3-109A-408A-A360-4EE859563442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCF11B3-109A-408A-A360-4EE859563442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCF11B3-109A-408A-A360-4EE859563442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCF11B3-109A-408A-A360-4EE859563442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCF11B3-109A-408A-A360-4EE859563442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80A7A459-A497-4F67-84D6-657298899DB0}
+	EndGlobalSection
+EndGlobal

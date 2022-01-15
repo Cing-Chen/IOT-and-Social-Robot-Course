@@ -1,0 +1,18 @@
+{
+    "name": "EchoBot2",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "981be5a0-6c3e-11ec-b085-21c2d1f1029f",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "E:\\Projects\\IOT\\IOT-Bot-Service-2\\EchoBot2.bot",
+    "overrides": null
+}

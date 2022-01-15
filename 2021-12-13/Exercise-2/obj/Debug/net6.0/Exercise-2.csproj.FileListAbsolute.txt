@@ -1,0 +1,15 @@
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\bin\Debug\net6.0\Exercise-2.exe
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\bin\Debug\net6.0\Exercise-2.deps.json
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\bin\Debug\net6.0\Exercise-2.runtimeconfig.json
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\bin\Debug\net6.0\Exercise-2.dll
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\bin\Debug\net6.0\ref\Exercise-2.dll
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\bin\Debug\net6.0\Exercise-2.pdb
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\obj\Debug\net6.0\Exercise-2.csproj.AssemblyReference.cache
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\obj\Debug\net6.0\Exercise-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\obj\Debug\net6.0\Exercise-2.AssemblyInfoInputs.cache
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\obj\Debug\net6.0\Exercise-2.AssemblyInfo.cs
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\obj\Debug\net6.0\Exercise-2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\obj\Debug\net6.0\Exercise-2.dll
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\obj\Debug\net6.0\ref\Exercise-2.dll
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\obj\Debug\net6.0\Exercise-2.pdb
+D:\OneDrive\Code\1101\IOT-and-Social-Robot-Course\2021-12-13\Exercise-2\obj\Debug\net6.0\Exercise-2.genruntimeconfig.cache
